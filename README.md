@@ -16,6 +16,7 @@ What things you need to execute the script
 2: wmi python package installed (This can be downloaded from https://pypi.python.org/pypi/WMI/#downloads)
 3: pywin32 python package installed
 4: psutil python package installed
+5: Correct privileges to run the scripts
 
 ```
 
@@ -28,7 +29,7 @@ What things you need to execute the script
 
 ## Improvements
 
-* Currently only Windows OS Infomation is captured. In future, add similar information for Linux/Unix OS too. 
+* Currently only Windows OS Infomation is captured. LinuxOSinfo script needs to cater for all flavour of Linux/Unix OS too. 
 
 ## Authors
 
