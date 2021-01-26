@@ -24,6 +24,10 @@ What things you need to execute the script
 2: Execute the python script and it will generate the result in console.
 ```
 
+## Improvements
+
+* Currently only Windows OS Infomation is captured. In future, add similar information for Linux/Unix OS too. 
+
 ## Authors
 
 * **Harinder Seera** - *Initial work* - [OzPerf](https://ozperf.com/)
