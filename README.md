@@ -14,6 +14,8 @@ What things you need to execute the script
 ```
 1: python 3.5
 2: wmi python package installed (This can be downloaded from https://pypi.python.org/pypi/WMI/#downloads)
+3: pywin32 python package installed
+4: psutil python package installed
 
 ```
 

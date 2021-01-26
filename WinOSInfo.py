@@ -6,10 +6,10 @@
 # > set PYTHONIOENCODING=utf-8
 #*****************************************************************************************************************
 import datetime
-import os
-import sys
+#import os
+#import sys
 import platform
-import wmi  #You will need to download wmi package to use it. This can be downloaded from https://pypi.python.org/pypi/WMI/#downloads
+#import wmi  #You will need to download wmi package to use it. This can be downloaded from https://pypi.python.org/pypi/WMI/#downloads
 import win32com.client
 import psutil
 
