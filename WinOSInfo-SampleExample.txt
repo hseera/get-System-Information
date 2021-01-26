@@ -1,0 +1,109 @@
+************************************************************************************************************************************************************
+                                                                 Date 26/01/2021 18:02:12
+************************************************************************************************************************************************************
+                                                                      System Information
+************************************************************************************************************************************************************
+OS Name              Machine Name    Version#        Release#        Hardware name        Processor name                               
+************************************************************************************************************************************************************
+Windows              ozperf          7               6.1.7601        AMD64                Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+************************************************************************************************************************************************************
+                                                                       CPU Information
+************************************************************************************************************************************************************
+Name                                       Description                            ExtClock   L2CacheSize MaxFreq    #OfPCores  #OfLCores  SocketDesignation
+************************************************************************************************************************************************************
+Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz  Intel64 Family 6 Model 58 Stepping 9   100        1024       2301       4          8          SOCKET 0       
+
+************************************************************************************************************************************************************
+                                                                    Memory Information
+************************************************************************************************************************************************************
+Name                           BankLabel                 Capacity(MB)              FormFactor                MemoryType                Speed                    
+************************************************************************************************************************************************************
+Physical Memory                BANK 0                    4096.0                    12                        0                         1600                     
+Physical Memory                BANK 2                    4096.0                    12                        0                         1600                     
+
+Total Memory in MB:  8083.671875
+Current Available Memory in MB:  2846.36328125
+
+************************************************************************************************************************************************************
+                                                                    Disk Information
+************************************************************************************************************************************************************
+Drive Name                               Size (GB)                                     Free Space (GB)                               File System         
+************************************************************************************************************************************************************
+C:                                       918.0078086853027                             416.1099662780762                             NTFS                
+D:                                       None                                          None                                          None                
+E:                                       None                                          None                                          None                
+
+************************************************************************************************************************************************************
+                                                                   Network Information
+************************************************************************************************************************************************************
+Description                                   DHCPServer      DHCPDomain      DNSHostName     MACAddress           WINSPrimaryServer WINSSecondaryServer
+************************************************************************************************************************************************************
+WAN Miniport (SSTP)                           None            None            None            None                 None              None             
+WAN Miniport (IKEv2)                          None            None            None            None                 None              None             
+WAN Miniport (L2TP)                           None            None            None            None                 None              None             
+WAN Miniport (PPTP)                           None            None            None            None                 None              None             
+WAN Miniport (PPPOE)                          None            None            None            None                 None              None             
+WAN Miniport (IPv6)                           None            None            None            None                 None              None             
+VMware Virtual Ethernet Adapter for VMnet1    None            None            ozperf          00:50:56:C0:00:01    None              None             
+VMware Virtual Ethernet Adapter for VMnet8    None            None            ozperf          00:50:56:C0:00:08    None              None             
+Microsoft ISATAP Adapter                      None            None            None            None                 None              None             
+Vodafone Mobile Broadband Network Adapter (Huawei) None            None            None            None                 None              None             
+Microsoft ISATAP Adapter                      None            None            None            None                 None              None             
+
+************************************************************************************************************************************************************
+                                                                Window Services Installed
+************************************************************************************************************************************************************
+SERVICE NAME                             DISPLAY NAME                                                           START TYPE           STATUS              
+************************************************************************************************************************************************************
+Total Services installed:  207
+AdobeARMservice                          Adobe Acrobat Update Service                                           automatic            running             
+AdobeFlashPlayerUpdateSvc                Adobe Flash Player Update Service                                      manual               stopped             
+AeLookupSvc                              Application Experience                                                 manual               stopped             
+ALG                                      Application Layer Gateway Service                                      manual               running             
+AppIDSvc                                 Application Identity                                                   manual               stopped             
+Appinfo                                  Application Information                                                manual               stopped             
+Apple Mobile Device Service              Apple Mobile Device Service                                            automatic            running             
+AppMgmt                                  Application Management                                                 manual               stopped             
+aspnet_state                             ASP.NET State Service                                                  manual               stopped             
+
+************************************************************************************************************************************************************
+                                                                Window Programs Installed
+************************************************************************************************************************************************************
+NAME                                                                             VENDOR                                   VERSION              INSTALL DATE
+************************************************************************************************************************************************************
+Total # of programs installed:  182
+Python 3.7.6 Add to Path (64-bit)                                                Python Software Foundation               3.7.6150.0           20191229  
+Python 3.7.6 pip Bootstrap (64-bit)                                              Python Software Foundation               3.7.6150.0           20191229  
+Microsoft WSE 2.0 SP3 Runtime                                                    Microsoft Corp.                          2.0.5050.0           20130403  
+Python 3.7.6 Utility Scripts (64-bit)                                            Python Software Foundation               3.7.6150.0           20191229  
+Python 3.7.6 Tcl/Tk Support (64-bit)                                             Python Software Foundation               3.7.6150.0           20191229  
+Python 3.7.6 Executables (64-bit)                                                Python Software Foundation               3.7.6150.0           20191229  
+Python 3.7.6 Test Suite (64-bit)                                                 Python Software Foundation               3.7.6150.0           20191229  
+Internet TV for Windows Media Center                                             Microsoft Corporation                    4.2.2.0              20120714  
+Microsoft WSE 3.0 Runtime                                                        Microsoft Corp.                          3.0.5305.0           20130403  
+Python 3.7.6 Documentation (64-bit)                                              Python Software Foundation               3.7.6150.0           20191229  
+ 
+
+************************************************************************************************************************************************************
+                                                                    Hot fix Installed
+************************************************************************************************************************************************************
+CAPTION                                                                DESC                 HOTFIX_ID            INSTALL DATE         INSTALLED BY        
+************************************************************************************************************************************************************
+Total # of hotfixes:  98
+http://support.microsoft.com/?kbid=2541014                             Update               KB2541014            2/15/2012            OZPERF\Administrator
+http://support.microsoft.com/?kbid=2544893                             Security Update      KB2544893            2/15/2012            OZPERF\Administrator
+http://support.microsoft.com/?kbid=2545698                             Update               KB2545698            2/15/2012            OZPERF\Administrator
+http://support.microsoft.com/?kbid=2547257                             Hotfix               KB2547257            2/15/2012            OZPERF\Administrator
+************************************************************************************************************************************************************
+                                                                      Startup Commands
+************************************************************************************************************************************************************
+NAME                                               COMMAND                                                                                             
+************************************************************************************************************************************************************
+                                                                                                                                                       
+Sidebar                                            %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun                                                 
+EvernoteClipper                                    EvernoteClipper.lnk                                                                                                                                                                                                                                        
+IgfxTray                                           C:\windows\system32\igfxtray.exe                                                                    
+HotKeysCmds                                        C:\windows\system32\hkcmd.exe                                                                       
+Persistence                                        C:\windows\system32\igfxpers.exe                                                                    
+
