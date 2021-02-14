@@ -1,7 +1,7 @@
 ![index](https://github.com/hseera/getOSInfo/blob/main/SystemInfo.PNG)
 
 # getOSInfo
-Get detail about the OS such as disk, patching, cores etc
+Get detail about the OS such as disk, patching, cores etc. It is a useful utility to have when you have 10 or machine and you want to get information on them. Helpful for system admins and performance engineers.
 
 ## Getting Started
 
