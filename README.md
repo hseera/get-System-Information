@@ -35,9 +35,7 @@ What things you need to execute the script
 
 ## Improvements
 
-```
-1: Currently only Windows OS Infomation is captured. LinuxOSinfo script needs to cater for all flavour of Linux/Unix OS too. 
-```
+* Currently only Windows OS Infomation is captured. LinuxOSinfo script needs to cater for all flavour of Linux/Unix OS too. 
 
 ## Contribute
 
