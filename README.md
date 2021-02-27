@@ -24,7 +24,6 @@ What things you need to execute the script
 3: pywin32 python package installed
 4: psutil python package installed
 5: Correct privileges to run the scripts
-
 ```
 
 ### Execution
@@ -36,7 +35,9 @@ What things you need to execute the script
 
 ## Improvements
 
-* Currently only Windows OS Infomation is captured. LinuxOSinfo script needs to cater for all flavour of Linux/Unix OS too. 
+```
+1: Currently only Windows OS Infomation is captured. LinuxOSinfo script needs to cater for all flavour of Linux/Unix OS too. 
+```
 
 ## Contribute
 
